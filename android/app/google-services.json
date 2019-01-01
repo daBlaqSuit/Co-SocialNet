@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "541393980265",
+    "firebase_url": "https://fir-login-db3aa.firebaseio.com",
+    "project_id": "fir-login-db3aa",
+    "storage_bucket": "fir-login-db3aa.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:541393980265:android:210663c7ff00b90c",
+        "android_client_info": {
+          "package_name": "za.co.dablaqsuit.dablaqlist"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "541393980265-bbs0s39so7uqb9b98u35tmlmbf5btr9b.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBKq2ZEf4E3I36QoVd2kVHUFBW4Tk5V-Yw"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
